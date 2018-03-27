@@ -1,8 +1,9 @@
 ---
 title: About me and Blog
-banner: gallery/robot-teacher.jpg
+date: 2018-03-25 12:26:50
+banner: /gallery/robot-teacher.jpg
 ---
-My name is Eduardo Avelar Pantoja, I'm from Mexico and currently studying a Master Degree in Computer Science in the Tijuana Institute of Technology.
+My name is Eduardo Avelar, I'm from Mexico and currently studying a Master Degree in Computer Science in the Tijuana Institute of Technology.
 
 I studied college in the University of Colima the Computational Systems Engineering.
 
